@@ -25,7 +25,7 @@ Dashboard | Patients | New Billing | Invoices | Reports
 ## Install
 pip install -r requirements.txt
 
-Import `database_modern.sql` into MySQL, then edit the `DB` settings at the top of `hospital_billing_modern.py`.
+Import `database.sql` into MySQL, then edit the `DB` settings at the top of `hospital_billing.py`.
 
 Default login:
 admin / admin123
